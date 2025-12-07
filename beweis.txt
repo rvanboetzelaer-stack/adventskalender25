@@ -1,0 +1,83 @@
+11:52 – +77 300 111 → +77 900 222
+„Bin wieder im Lager. Die Probemenge war einwandfrei.“
+
+11:55 – +77 900 222 → +77 300 111
+„Gut zu hören. Dann können wir den nächsten Schritt planen.“
+
+11:59 – +77 300 111 → +77 900 222
+„Testlieferung angekommen. Wir gehen jetzt auf 500 Einheiten hoch.“
+
+12:04 – +77 900 222 → +77 300 111
+„Bestätigt. Die Menge ist ohne Probleme verfügbar.“
+
+12:09 – +77 300 111 → +77 900 222
+„Bitte Standardqualität wie zuvor.“
+
+12:13 – +77 900 222 → +77 300 111
+„Standardqualität, Charge L-47?“
+
+12:14 – +77 300 111 → +77 900 222
+„Genau die.“
+
+12:18 – +77 900 222 → +77 300 111
+„Dann brauchen wir nur noch einen passenden Ort.“
+
+12:22 – +77 300 111 → +77 900 222
+„Möglichst windgeschützt und ohne Publikumsverkehr.“
+
+12:27 – +77 900 222 → +77 300 111
+„Ich sende dir mehrere Optionen.“
+
+12:33 – +77 900 222 → +77 300 111
+„(50.9734203, 7.4626780)“
+
+12:37 – +77 900 222 → +77 300 111
+„(45.002110, -93.221900)“
+
+12:41 – +77 900 222 → +77 300 111
+„(34.117200, -118.055210)“
+
+12:46 – +77 300 111 → +77 900 222
+„Eine davon passt. Wir bleiben bei der internen Absprache.“
+
+12:50 – +77 900 222 → +77 300 111
+„Verstanden. Signalisiere mir, sobald du unterwegs bist.“
+
+12:53 – +77 300 111 → +77 900 222
+„Vorbereitung läuft bereits.“
+
+12:58 – +77 900 222 → +77 300 111
+„Achte darauf, dass die Säcke trocken bleiben.“
+
+13:03 – +77 300 111 → +77 900 222
+„Sind in luftdichten Containern.“
+
+13:07 – +77 900 222 → +77 300 111
+„Perfekt. Dann noch eine Zusatzoption:“
+
+13:09 – +77 900 222 → +77 300 111
+„(41.773401, -72.112340)“
+
+13:15 – +77 300 111 → +77 900 222
+„Alles empfangen.“
+
+13:20 – +77 900 222 → +77 300 111
+„Und noch eine letzte Option:“
+
+13:22 – +77 900 222 → +77 300 111
+„(60.117004, 24.941002)“
+
+13:28 – +77 300 111 → +77 900 222
+„Passt. Ich entscheide mich intern.“
+
+13:31 – +77 900 222 → +77 300 111
+„Gut. Gib Bescheid, sobald du startest.“
+
+13:35 – +77 300 111 → +77 900 222
+„Fertig verpackt. Ich mache mich später auf den Weg.“
+
+13:40 – +77 900 222 → +77 300 111
+„Dann sehen wir uns später.“
+
+13:44 – +77 300 111 → +77 900 222
+„Bis später.“
