@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Planung – Polizei Bullerbü</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header><h1>Polizei-Revier Bullerbü</h1></header>
+
+<nav>
+    <a href="home.html">Home</a>
+    <a href="archive.html">Archive</a>
+    <a href="planung.html">Planung</a>
+    <a href="#">News</a>
+</nav>
+
+<div class="container">
+    <h2>Zugriffsplanung</h2>
+
+    <p>Koordinate eingeben:</p>
+    <input id="coord" placeholder="z.B. 52.12345">
+
+    <p>Uhrzeit eingeben:</p>
+    <input id="time" placeholder="HH:MM">
+
+    <button onclick="check()">Prüfen</button>
+
+    <div id="success" style="margin-top:20px;"></div>
+</div>
+
+<script>
+function check() {
+    const c = document.getElementById("coord").value;
+    const t = document.getElementById("time").value;
+
+    // HIER DEINE richtige Lösung eintragen:
+    const correctCoord = "52.500";  
+    const correctTime = "14:30";
+
+    if (c === correctCoord && t === correctTime) {
+        document.getElementById("success").innerHTML =
+            '<button onclick="window.location.href=\'video.html\'">Zugriff ausführen</button>';
+    } else {
+        document.getElementById("success").innerHTML = 
+            "<p style='color:red;'>Falsche Eingabe!</p>";
+    }
+}
+</script>
+
+</body>
+</html>

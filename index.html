@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Login – Polizei Bullerbü</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header><h1>Polizei-Revier Bullerbü</h1></header>
+
+    <div class="container">
+        <h2>Login</h2>
+
+        <input id="username" placeholder="Benutzername"><br>
+        <input id="password" type="password" placeholder="Passwort"><br>
+        <button onclick="login()">Anmelden</button>
+        <p id="error" style="color:red;"></p>
+    </div>
+
+<script>
+function login() {
+    const u = document.getElementById("username").value;
+    const p = document.getElementById("password").value;
+
+    // DEINE festen Zugangsdaten:
+    if (u === "agent" && p === "bullerbü2025") {
+        window.location.href = "home.html";
+    } else {
+        document.getElementById("error").innerText = "Falsche Login-Daten!";
+    }
+}
+</script>
+</body>
+</html>
