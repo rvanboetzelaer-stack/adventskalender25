@@ -36,19 +36,20 @@ function check() {
 
     // HIER DEINE richtige Lösung eintragen:
     const correctCoord = "56,70470°N,14,16779°O";  
-    const correctTime = "14:30";
+    const correctTime = "16:00";
 
     if (c === correctCoord && t === correctTime) {
         document.getElementById("success").innerHTML =
             '<button onclick="window.location.href=\'video.html\'">Zugriff ausführen</button>';
     } else {
         document.getElementById("success").innerHTML = 
-            "<p style='color:red;'>Falsche Eingabe!</p>";
+            "<p style='color:red;'>Termin bereits verplant!</p>";
     }
 }
 </script>
 
 </body>
 </html>
+
 
 
